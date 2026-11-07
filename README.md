@@ -81,7 +81,7 @@ Los botones cambian según lo que estés haciendo: a pie, armado, conduciendo, v
 ## 📲 Instalación
 
 1. Descarga **`GtaV-port-v1.6.2.ipa`** desde [**Releases**](../../releases/latest).
-2. Ábrela con **SideStore** o **AltStore** y fírmala con tu Apple ID.
+2. Ábrela con **SideStore** o **AltStore** y fírmala con tu Apple ID. Funcional con LiveContainer si no tienes mas Apple Id.
 3. Abre **GtaV-port** desde la pantalla de inicio.
 
 ---
