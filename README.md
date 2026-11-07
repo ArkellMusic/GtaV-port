@@ -91,6 +91,7 @@ Los botones cambian según lo que estés haciendo: a pie, armado, conduciendo, v
 1. Copia la carpeta de tu GTA V en la carpeta **GTA V Port**, desde la app **Archivos** del iPhone o desde el Finder del Mac.
 2. Abre la app y pulsa **Añadir tus archivos del juego**.
 3. La app los revisa uno a uno. Cuando salga *"Todos los archivos están completos"*, elige **Modo Historia** o **Sandbox**.
+4. También puedes copiar el enlace de [**Releases**](../../releases/latest) y pegarlo dentro de la app: descargará el `.zip` o `.rar` y lo descomprimirá ella misma, dejando todos los archivos colocados en su carpeta sin que tengas que tocar nada.
 
 > [!NOTE]
 > Si un archivo sale con un icono de nube, todavía está en iCloud Drive. Descárgalo antes (Finder → clic derecho → *Descargar ahora*). Los `.7z` hay que descomprimirlos antes en un ordenador.
