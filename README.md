@@ -127,4 +127,4 @@ Si el juego se cierra solo, cierra el resto de apps, baja el preajuste en **Ajus
 
 ---
 
-<p align="center"><sub>Repositorio privado · v1.6.2</sub></p>
+<p align="center"><sub>Repositorio publico con copyrigth by ArkellMusic · v1.6.2</sub></p>
